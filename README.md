@@ -1,4 +1,4 @@
-# repo
+# Repo
 A line i wrote on my Mac
 
 ## RStudio Setup
